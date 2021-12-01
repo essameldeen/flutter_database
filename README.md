@@ -1,6 +1,9 @@
 # flutter_database
 
-A new Flutter application.
+A small demo for some of database can use it in flutter like:
+* file 
+* Share Preferences 
+* SQlLite DataBase 
 
 ## Getting Started
 
